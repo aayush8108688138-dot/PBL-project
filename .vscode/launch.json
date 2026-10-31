@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Student Analytics (MainFrame)",
+            "request": "launch",
+            "mainClass": "com.analytics.student.ui.MainFrame",
+            "projectName": "student-lifestyle-analytics"
+        }
+    ]
+}
